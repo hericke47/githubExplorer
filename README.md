@@ -26,7 +26,7 @@ Primeiramente clone este repositório.
 ```
 git clone https://github.com/hericke47/githubExplorer
 ```
-Entre na pasta `github-explore` e rode o comando `yarn` ou `npm install`, para instalar as dependências do projeto.
+rode o comando `yarn` ou `npm install`, para instalar as dependências do projeto.
 
 ```
 cd github-explore
