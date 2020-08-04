@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Github Explore
+  Github Explorer
 </h3>
 
 <img src="https://i.postimg.cc/nh03Vp2n/screenshot-github-explore.png" alt="Github Explore"/>
@@ -29,7 +29,6 @@ git clone https://github.com/hericke47/githubExplorer
 rode o comando `yarn` ou `npm install`, para instalar as dependências do projeto.
 
 ```
-cd github-explore
 yarn start
 ```
 
